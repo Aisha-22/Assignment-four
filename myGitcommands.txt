@@ -1,0 +1,30 @@
+git init     
+    initializes out git repositiory by creating a hifdden .git folder 
+
+git add . 
+    to add all our files
+
+ git status
+    to check which files were successfully added   
+
+ git commit -m " a custme message to describe what changes i made when committing"   
+
+ git remote add origin https://github.com/Aisha-22/Assignment-four.git
+    to set the remote URL for where our files will be stored. this is only done once when setting up initialy
+
+  git push -u origin master 
+    this is the final step that uploads our files
+
+
+ ///////commands for an existing respsitiory
+
+git status  
+    to trak changes on the files
+
+ git add file name or .
+    to add a specific file or add all files
+
+ git commit -m " details about the changes made" 
+
+  git push
+    final step that uploads to the server            
