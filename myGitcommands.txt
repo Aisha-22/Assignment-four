@@ -24,6 +24,7 @@ git status
  git add file name or .
     to add a specific file or add all files
 
+git status 
  git commit -m " details about the changes made" 
 
   git push
